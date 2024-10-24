@@ -101,7 +101,7 @@
                         </li>
                         <li class="l-section section">
                             <div class="work">
-                                <h2>Selected work</h2>
+                                <h2>Services</h2>
                                 <div class="work--lockup">
                                     <ul class="slider">
                                         <li class="slider--item slider--item-left">
@@ -109,9 +109,9 @@
                                                 <div class="slider--item-image">
                                                     <img src="{{ asset('userset/img/work-victory.jpg') }}" alt="Victory">
                                                 </div>
-                                                <p class="slider--item-title">Victory</p>
-                                                <p class="slider--item-description">Lorem ipsum dolor sit amet,
-                                                    consectetur adipisicing elit sed do.</p>
+                                                <p class="slider--item-title">Data Collection</p>
+                                                <p class="slider--item-description">Building and managing data collection points for large data
+                                                    from relevant sources.</p>
                                             </a>
                                         </li>
                                         <li class="slider--item slider--item-center">
@@ -119,9 +119,9 @@
                                                 <div class="slider--item-image">
                                                     <img src="{{ asset('userset/img/work-metiew-smith') }}.jpg" alt="Metiew and Smith">
                                                 </div>
-                                                <p class="slider--item-title">Metiew &amp; Smith</p>
-                                                <p class="slider--item-description">Lorem ipsum dolor sit amet,
-                                                    consectetur adipisicing elit sed do.</p>
+                                                <p class="slider--item-title">Data &amp; Processing</p>
+                                                <p class="slider--item-description">Cleaning, structuring, and preparing your availabel data for
+                                                    analysis and reporting.</p>
                                             </a>
                                         </li>
                                         <li class="slider--item slider--item-right">
@@ -129,9 +129,9 @@
                                                 <div class="slider--item-image">
                                                     <img src="{{ asset('userset/img/work-alex-nowak') }}.jpg" alt="Alex Nowak">
                                                 </div>
-                                                <p class="slider--item-title">Alex Nowak</p>
-                                                <p class="slider--item-description">Lorem ipsum dolor sit amet,
-                                                    consectetur adipisicing elit sed do.</p>
+                                                <p class="slider--item-title">Analys Data</p>
+                                                <p class="slider--item-description">Descriptive, predivtive, and prescriptive data analysis to key
+                                                    performance based on already set milestones.</p>
                                             </a>
                                         </li>
                                     </ul>
